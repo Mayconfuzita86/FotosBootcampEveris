@@ -15,4 +15,4 @@
  
  💻 Atualização: Acesso a câmera do dispositivo
  
- ![app](https://github.com/Mayconfuzita86/FotoBootcampEveris/blob/main/FotosBootcamp/app/src/main/res/drawable-v24/foto_app_at.PNG)
+ ![app2](https://github.com/Mayconfuzita86/FotosBootcampEveris/blob/main/FotosBootcamp/app/src/main/res/drawable/foto_app_at.PNG)
