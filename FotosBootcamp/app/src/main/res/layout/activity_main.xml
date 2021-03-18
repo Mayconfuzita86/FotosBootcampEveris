@@ -25,5 +25,15 @@
         style="@style/Widget.AppCompat.Button.Colored"
         android:text="@string/image_selected"/>
 
+    <Button
+        android:id="@+id/open_camera_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:text="@string/take_picture"/>
+
 
 </LinearLayout>
